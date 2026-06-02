@@ -1,6 +1,7 @@
 # Insurance-Analysis-Dashboard
 
 Overview
+
 Developed an Insurance Analytics Dashboard in Power BI to analyze policy claims, approval trends, customer demographics, and policy expiration risks.
 
 Tools Used - 
