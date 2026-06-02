@@ -25,4 +25,3 @@ Features -
 Dashboard Preview
 <img width="888" height="499" alt="Insurance" src="https://github.com/user-attachments/assets/b8685e8b-b8f9-4e83-ab79-86acf0bce3f8" />
 
-(Add screenshots here)
